@@ -7,8 +7,6 @@ cscript /nologo "%temp%.\tmp.vbs"
 del "%temp%.\tmp.vbs"
 goto :eof
 
-
-
 exit
 
 
